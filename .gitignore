@@ -1,0 +1,17 @@
+# Environment — never commit secrets
+.env
+contracts/.env
+node/.env
+
+# Dependencies
+node_modules/
+contracts/node_modules/
+
+# Hardhat
+contracts/artifacts/
+contracts/cache/
+contracts/typechain-types/
+
+# Node data and secrets
+node/data/
+node/password.txt
