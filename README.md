@@ -8,8 +8,9 @@ Réseau blockchain Ethereum privé basé sur Geth avec consensus Clique (Proof o
 |-----------|--------|
 | Network Name | CGLT |
 | Chain ID | 242626 |
-| RPC URL | http://104.248.166.144:8545 |
+| RPC URL | https://rpc.skyplays.tech |
 | Symbol | CGLT |
+| Block Explorer | https://explorer.skyplays.tech |
 | Block Time | ~5 secondes |
 | Consensus | Clique (PoA) |
 
@@ -51,7 +52,7 @@ enode://31310629f0ed444a14e415e78c6f1a8a99d3b7d19a4707538135174f9668e0a6549971b8
 
 ## Genesis
 
-Voir [genesis.json](./node/genesis.json)
+Voir [genesis.json](./genesis.json)
 
 ## Déploiement des contrats
 
@@ -64,3 +65,5 @@ Voir [genesis.json](./node/genesis.json)
 ## Liens
 
 - GitHub : https://github.com/zefparis/cglt-chain
+- Explorer : https://explorer.skyplays.tech
+- RPC : https://rpc.skyplays.tech
